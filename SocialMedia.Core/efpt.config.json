@@ -1,0 +1,67 @@
+﻿{
+   "ContextClassName": "SocialmediaContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "SocialMedia.Core",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[aspnet_Applications]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[aspnet_Membership]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[aspnet_Paths]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[aspnet_PersonalizationAllUsers]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[aspnet_PersonalizationPerUser]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[aspnet_Profile]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[aspnet_Roles]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[aspnet_SchemaVersions]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[aspnet_Users]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[aspnet_UsersInRoles]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[aspnet_WebEvent_Events]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}
